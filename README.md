@@ -1,7 +1,7 @@
 # movies
 
 Folgende Filme anschauen:
-* Per Anhalter durch die Galaxis
+* Per Anhalter durch die Galaxis (Serie, ungekürzt)
 * Bill & Ted
 * Lilo & Stitch
 * Space Balls
